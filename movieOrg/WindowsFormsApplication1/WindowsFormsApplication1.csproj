@@ -64,11 +64,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="iamlazy1.cs">
+    <Compile Include="error.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="iamlazy1.Designer.cs">
-      <DependentUpon>iamlazy1.cs</DependentUpon>
+    <Compile Include="error.Designer.cs">
+      <DependentUpon>error.cs</DependentUpon>
     </Compile>
     <Compile Include="ImageSelection.cs">
       <SubType>Form</SubType>
@@ -84,11 +84,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="selectFileToPlay.cs">
+    <Compile Include="selectvideo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="selectFileToPlay.Designer.cs">
-      <DependentUpon>selectFileToPlay.cs</DependentUpon>
+    <Compile Include="selectvideo.Designer.cs">
+      <DependentUpon>selectvideo.cs</DependentUpon>
     </Compile>
     <Compile Include="SelectMovie.cs">
       <SubType>Form</SubType>
@@ -108,8 +108,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="iamlazy1.resx">
-      <DependentUpon>iamlazy1.cs</DependentUpon>
+    <EmbeddedResource Include="error.resx">
+      <DependentUpon>error.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ImageSelection.resx">
       <DependentUpon>ImageSelection.cs</DependentUpon>
@@ -126,8 +126,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="selectFileToPlay.resx">
-      <DependentUpon>selectFileToPlay.cs</DependentUpon>
+    <EmbeddedResource Include="selectvideo.resx">
+      <DependentUpon>selectvideo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SelectMovie.resx">
       <DependentUpon>SelectMovie.cs</DependentUpon>
